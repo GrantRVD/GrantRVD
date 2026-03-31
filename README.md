@@ -4,11 +4,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grantrvd-0077B5)](https://linkedin.com/in/grantrvd)
 [![Website](https://img.shields.io/badge/Website-grantrvd.github.io-green)](https://grantrvd.github.io)
 
-Senior Data Scientist with expertise in machine learning, natural language processing, and time series analysis. Passionate about developing AI solutions that make a positive impact.
+Senior Data Scientist with expertise in machine learning, natural language processing, and time series analysis. Expert in Agentic Coding and Copilot use for data science. Driven to develop AI/ML solutions that make a positive impact.
 
 ## 💻 Featured Projects
 
-### ApneaAssist — ResMed (2024-present)
+### PAP Therapy Patient Analytics - Resmed (2026-Present)
+
+`Business Intelligence project examining records around the adoption and retention of PAP therapy among patient population`
+
+- Developing **Polars**-based ETL pipelines to service **Streamlit** dashboards displaying analytics
+- Researched and implemented the use of **Sen's slope** and **Mann-Kendall tests** to identify and measure important trends in therapy lapse, and applying **Kitagawa-Oaxaca Blinder** analysis to identify inter-group disparities
+- Applying Causal Graph Modeling with **DoWhy** to identify causal relationships between measured variables and therapy outcomes across time
+- Created pipline to perform out-of-core analysis processing on more than *2 Billion* records on single node compute instances
+
+### Polysomnography (PSG) Autoscoring - Resmed (2025-Present)
+
+`New product development using patient PSG health records to autoscore sleep stages, respiratory events, and other health conditions`
+
+- Analysis and model development on over *10,000* full-night PSG recordings from **EDF** files using self-developed Python package
+- Experimented with combination of transfer learning from **PyTorch** Transformer-based models and **AutoML**-based classifiers
+- Transformed highly multi-model time series physiological recordings into multi-class and multi-label items at 30-second intervals, averaging 100 Hz sampling frequency
+
+### ApneaAssist — Resmed (2024-2025)
 
 `Greenfield project collaborating with major healthcare provider on sleep apnea screening`
 
@@ -22,7 +39,7 @@ Senior Data Scientist with expertise in machine learning, natural language proce
 `LLM-based semi-automated content generation for exams`
 
 - Prototyped simple RAG system in **LangChain**
-- Experimented with Enterprise LLM services from GPT 3.5 through GPT-4o
+- Experimented with Enterprise LLM services from **GPT 3.5 through GPT-4o**
 - Parsed PDFS from proprietary ETS documents to indexed markdown with [**marker**](https://github.com/VikParuchuri/marker) package
 - Developed early pipeline for generating content that either adhered to or violated guideline documents using **Evaluation Driven Development (EDD)**
 
@@ -34,7 +51,6 @@ Senior Data Scientist with expertise in machine learning, natural language proce
 - Implemented **Huggingface** X-Vector embeddings for voice analysis
 - Deployed using **SageMaker Studio** with continuous monitoring
 - Ensured fairness across demographics using **fairlearn**
--
 
 ### Online Hate Index — ADL (2019-2022)
 
@@ -66,7 +82,7 @@ Senior Data Scientist with expertise in machine learning, natural language proce
 
 ## 💼 Experience
 
-- **Senior Data Scientist** @ ResMed (2023 - Present)
+- **Senior Data Scientist** @ Resmed (2023 - Present)
   - Provider Experience Team member
 - **Senior Data Scientist** @ Educational Testing Service (2022 - 2024)
   - AI Platform Development Team member
