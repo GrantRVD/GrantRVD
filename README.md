@@ -83,7 +83,8 @@ Senior Data Scientist with expertise in machine learning, natural language proce
 ## Experience
 
 - **Senior Data Scientist** @ Resmed (2023 - Present)
-  - Provider Experience Team member
+  - Data Science & Artificial Intelligence Lab (DSAIL) - Provider Experience team: 2023-2025
+  - Data Science Global team: 2026-present
 - **Senior Data Scientist** @ Educational Testing Service (2022 - 2024)
   - AI Platform Development Team member
 - **Data Science Lead** @ Tata Consultancy Services - Apple Service Team (2022)
