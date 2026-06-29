@@ -4,11 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grantrvd-0077B5)](https://linkedin.com/in/grantrvd)
 [![Website](https://img.shields.io/badge/Website-grantrvd.github.io-green)](https://grantrvd.github.io)
 
-Senior Data Scientist with expertise in machine learning, natural language processing, and time series analysis. Expert in Agentic Coding and Copilot use for data science. Driven to develop AI/ML solutions that make a positive impact.
+Senior Data Scientist with expertise in machine learning, natural language processing, and time series analysis. Expertise in Agentic Coding and Copilot use for data science. Driven to develop AI/ML solutions that make a positive impact.
 
-## 💻 Featured Projects
+## Featured Projects
 
-### PAP Therapy Patient Analytics - Resmed (2026-Present)
+### PAP Therapy Analytics: User Onboarding & Retention - Resmed (2026-Present)
 
 `Business Intelligence project examining records around the adoption and retention of PAP therapy among patient population`
 
@@ -80,7 +80,7 @@ Senior Data Scientist with expertise in machine learning, natural language proce
 - Implemented n-degree network traversal algorithm
 - Generated data for ADL's public Steam Extremism report
 
-## 💼 Experience
+## Experience
 
 - **Senior Data Scientist** @ Resmed (2023 - Present)
   - Provider Experience Team member
@@ -95,28 +95,26 @@ Senior Data Scientist with expertise in machine learning, natural language proce
 - **Graduate Research Fellow** @ UC San Diego, ECE (2011 - 2013)
   - Conducted rotations in cellular neuroscience microscopy, semantic web for neuroscience, and neuroimaging
 
+## Technical Skills
 
-
-## 🛠️ Technical Skills
-
+- **AI-Assisted Software Engineering**: Copilot CLI, Claude Code, Agentic Engineering Best Practices, Harness Development
 - **Languages & Tools**: Python (15+ years), Git/Github (10+ years)
-- **Data Science**: NumPy, Pandas, Scikit-learn, Jupyter (9+ years)
+- **Data Science**: NumPy, Pandas, Polars, Scikit-learn, Jupyter (9+ years)
 - **Machine Learning**: PyTorch (3+ years), HuggingFace (2+ years)
-- **Cloud & DevOps**: AWS (S3, EC2, SageMaker), SQL, TrueFoundry
-- **Visualization**: Bokeh, Plotly, Streamlit
-- **Emerging Tech**: LLMs, RAG, Prompt Engineering
+- **Cloud & DevOps**: AWS (S3, EC2, SageMaker), SQL (Snowflake, Postgres), TrueFoundry
+- **Visualization**: Seaborn, Bokeh, Plotly, Streamlit, Gradio
 
-## 🏆 Awards & Recognition
+## Awards & Recognition
 
 - **Operational Excellence Award** - ETS, for AI authenticity detection development
 - **Above and Beyond Work Award** - ADL, for 2019 Hanau Shooting response
 - **NSF Graduate Research Fellowship** (2010) - For STEM graduate studies
 
-## 📚 Education
+## Education
 
 **University of California, San Diego** (2011-2014)
 
-- Department of Electrical and Computer Engineering (Ph.D. Dropout)
+- Department of Electrical and Computer Engineering (Ph.D., incomplete)
 
 **University of California, Irvine** (2006-2011)
 
